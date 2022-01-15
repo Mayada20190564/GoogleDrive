@@ -1,0 +1,16 @@
+.item img{
+width: 70px;
+height: 70px;
+}
+.showImg img{
+    height: 90px;
+}
+.list h4{
+color: teal;
+font-weight: 800;
+}
+h1{
+    color: #3498DB;
+    font-weight: 900;
+    font-size: 50px;
+}
